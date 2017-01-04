@@ -1,0 +1,7 @@
+#Wed Jan 04 21:49:26 CET 2017
+base.0=C\:\\Users\\gijs\\AndroidStudioProjects\\AphasiaAppMobiele\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ed5deec5a851456cba3d05fd13b8f40a69f7003c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\gijs\\AndroidStudioProjects\\AphasiaAppMobiele\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9150245f1fc2d09f0fa1f50b5aaf0043e4fc8333\\classes.dex
+base.1=C\:\\Users\\gijs\\AndroidStudioProjects\\AphasiaAppMobiele\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9150245f1fc2d09f0fa1f50b5aaf0043e4fc8333
+file.0=C\:\\Users\\gijs\\AndroidStudioProjects\\AphasiaAppMobiele\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ed5deec5a851456cba3d05fd13b8f40a69f7003c\\classes.dex

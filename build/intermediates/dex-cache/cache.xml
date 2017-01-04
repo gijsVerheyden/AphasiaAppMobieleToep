@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_57b448b16d017c2f00f614718d0f63c7e7c1cffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f6a3fc99775954eae8380dbeecdc8cdba745118e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_dd80149c820c346fdc44d7203f3dfd1b41fd828b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0dbd154a3ae9e32c3cf46127a3149eb0ea99f2b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_641196ee05fb7af2a72eba7ae29b777862a12a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_996e4ba8957480de9296336e60f1fe718633b9eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_84e284fc98c82ecfaead425f4a91dd394645780d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_14e28010a5e60173cb4f3911776227fb13a99d3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ded547b380061698e8b42f99ad72745796a5e627\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a892291c8bd40b5b1b5c0008bdf89117ad33931">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9150245f1fc2d09f0fa1f50b5aaf0043e4fc8333\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ebdf0a778180eadaeada50784bf3e0bbd40bfc60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7b0f639865fc93e6ee91a43614cb0428a8dc4e62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_cc5707c1ef4dfbb4eb44fada717837550f5dd37c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ebd9e63201a2f8729ed3865b990fbb0f38951500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_51587228119e061cbb8f63fb810c4d091ae148d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="82a9019c381fbfae3bfd266708b9ac4e32249c60">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ed5deec5a851456cba3d05fd13b8f40a69f7003c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\gijs\AndroidStudioProjects\AphasiaAppMobiele\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_31a6d2c5944fbff2319d51504f1e4fe26cfca002\classes.dex" />
+    </item>
+
+</items>
